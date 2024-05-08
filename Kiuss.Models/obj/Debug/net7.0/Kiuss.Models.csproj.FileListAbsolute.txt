@@ -1,0 +1,12 @@
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\bin\Debug\net7.0\Kiuss.Models.deps.json
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\bin\Debug\net7.0\Kiuss.Models.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\bin\Debug\net7.0\Kiuss.Models.pdb
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\Kiuss.Models.csproj.AssemblyReference.cache
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\Kiuss.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\Kiuss.Models.AssemblyInfoInputs.cache
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\Kiuss.Models.AssemblyInfo.cs
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\Kiuss.Models.csproj.CoreCompileInputs.cache
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\Kiuss.Models.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\refint\Kiuss.Models.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\Kiuss.Models.pdb
+D:\Учёба\Практика диплом\Практика2024\Kiuss.Models\obj\Debug\net7.0\ref\Kiuss.Models.dll

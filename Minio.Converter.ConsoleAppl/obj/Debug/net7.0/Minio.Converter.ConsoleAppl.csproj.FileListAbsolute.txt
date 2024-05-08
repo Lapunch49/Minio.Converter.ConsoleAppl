@@ -1,0 +1,237 @@
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.exe
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.deps.json
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.runtimeconfig.json
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.pdb
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\CommunityToolkit.HighPerformance.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.HostFiltering.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Http.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Routing.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Server.IIS.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Minio.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Minio.AspNetCore.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\StyleCop.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\System.Reactive.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Kpsirs.Models.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\bin\Debug\net7.0\Kpsirs.Models.pdb
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.AssemblyReference.cache
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.AssemblyInfoInputs.cache
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.AssemblyInfo.cs
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.CoreCompileInputs.cache
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.CopyComplete
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\refint\Minio.Converter.ConsoleAppl.dll
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.pdb
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.genruntimeconfig.cache
+D:\Учёба\Практика диплом\Практика2024\Kiuss\obj\Debug\net7.0\ref\Minio.Converter.ConsoleAppl.dll
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.dll
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\refint\Minio.Converter.ConsoleAppl.dll
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.pdb
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.exe
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.deps.json
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.runtimeconfig.json
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.pdb
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\CommunityToolkit.HighPerformance.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.HostFiltering.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.HttpOverrides.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Routing.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.IIS.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.AspNetCore.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\StyleCop.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\System.Reactive.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Kpsirs.Models.dll
+D:\dd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Kpsirs.Models.pdb
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.AssemblyReference.cache
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.GeneratedMSBuildEditorConfig.editorconfig
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.AssemblyInfoInputs.cache
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.AssemblyInfo.cs
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.CoreCompileInputs.cache
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.CopyComplete
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.genruntimeconfig.cache
+D:\dd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\ref\Minio.Converter.ConsoleAppl.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.exe
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.deps.json
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.runtimeconfig.json
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.Converter.ConsoleAppl.pdb
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\CommunityToolkit.HighPerformance.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.HostFiltering.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Routing.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.IIS.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Minio.AspNetCore.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\StyleCop.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\System.Reactive.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Kpsirs.Models.dll
+D:\ddd\Minio.Converter.ConsoleAppl\bin\Debug\net7.0\Kpsirs.Models.pdb
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.AssemblyReference.cache
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.GeneratedMSBuildEditorConfig.editorconfig
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.AssemblyInfoInputs.cache
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.AssemblyInfo.cs
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.CoreCompileInputs.cache
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.csproj.CopyComplete
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.dll
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\refint\Minio.Converter.ConsoleAppl.dll
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.pdb
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\Minio.Converter.ConsoleAppl.genruntimeconfig.cache
+D:\ddd\Minio.Converter.ConsoleAppl\obj\Debug\net7.0\ref\Minio.Converter.ConsoleAppl.dll
